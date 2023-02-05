@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-handle-inputs/static/css/main.dc79ddbc.css",
+    "main.js": "/react-handle-inputs/static/js/main.a28e3c4b.js",
+    "index.html": "/react-handle-inputs/index.html",
+    "main.dc79ddbc.css.map": "/react-handle-inputs/static/css/main.dc79ddbc.css.map",
+    "main.a28e3c4b.js.map": "/react-handle-inputs/static/js/main.a28e3c4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc79ddbc.css",
+    "static/js/main.a28e3c4b.js"
+  ]
+}
